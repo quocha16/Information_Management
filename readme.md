@@ -7,7 +7,7 @@
 
 <h1 align="center">IE103 - Quản lí thông tin</h1>
 
-## 📘 GIỚI THIỆU MÔN HỌC
+## GIỚI THIỆU MÔN HỌC
 - **Tên môn học:** *Quản lí thông tin*  
 - **Mã môn học:** IE103  
 - **Lớp học:** IE103.P21
@@ -18,12 +18,12 @@
 
 ---
 
-## 👨‍🏫 GIẢNG VIÊN HƯỚNG DẪN
+## GIẢNG VIÊN HƯỚNG DẪN
 - **ThS. Tạ Thu Thủy**
 
 ---
 
-## 👥 THÀNH VIÊN NHÓM
+## THÀNH VIÊN NHÓM
 
 | STT | Họ và Tên         | MSSV     |
 |-----|-------------------|----------|
@@ -35,13 +35,13 @@
 
 ---
 
-## 📌 ĐỒ ÁN MÔN HỌC
+## ĐỒ ÁN MÔN HỌC
 *TÌM HIỂU VỀ HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU IBM DB2*<br>
 Repo này dùng để tham khảo trong việc học tập và thực hành thiết kế, cài đặt, cũng như thao tác với cơ sở dữ liệu quan hệ IBM Db2.
 
 ---
 
-## 📝 Ghi chú
-- 🔗 Link GitHub demo website kết nối CSDL IBM Db2: [ie103-group15](https://github.com/manh-05-uit/ie103-group15)
+## Ghi chú
+-  Link GitHub demo website kết nối CSDL IBM Db2: [ie103-group15](https://github.com/manh-05-uit/ie103-group15)
 
 ---
